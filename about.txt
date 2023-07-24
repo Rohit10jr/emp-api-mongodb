@@ -1,0 +1,5 @@
+this is basic tutorial on mongoDB CRUD operations 
+
+this program can perform CRUD operations on both models
+
+this has uploading function but that does not work 
